@@ -1,0 +1,8 @@
+@article{REPO-039,
+    author = "Gong, Taesik and Yeonsu, Kim and Shin, Jinwoo and Lee, Sung-Ju",
+    journal = "Proceedings of the 17th conference on embedded networked sensor systems",
+    pages = "110-123",
+    title = "{MetaSense: Few-Shot Adaptation to Untrained Conditions in Deep Mobile Sensing}",
+    volume = "17",
+    year = "2019"
+}
